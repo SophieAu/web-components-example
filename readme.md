@@ -18,4 +18,4 @@ to launch a small server in your pwd (which ideally would be your project root).
 
 
 ## Browser Support
-This project uses HTML Imports and Custom Elements from the Web Components spec which are only supported by Chrome. In any other browsers, the Custom Element simply won't show up.
+This project uses HTML Imports and Custom Elements from the Web Components spec which are only supported by Chrome (and Firefox by setting `about:config` variables). In any other browsers. In any other browsers, the Custom Element simply won't show up.
